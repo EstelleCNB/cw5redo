@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cw5redo/static/css/main.15243771.css",
+    "main.js": "/cw5redo/static/js/main.93eec4d0.js",
+    "static/js/453.37b5b06d.chunk.js": "/cw5redo/static/js/453.37b5b06d.chunk.js",
+    "index.html": "/cw5redo/index.html",
+    "main.15243771.css.map": "/cw5redo/static/css/main.15243771.css.map",
+    "main.93eec4d0.js.map": "/cw5redo/static/js/main.93eec4d0.js.map",
+    "453.37b5b06d.chunk.js.map": "/cw5redo/static/js/453.37b5b06d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15243771.css",
+    "static/js/main.93eec4d0.js"
+  ]
+}
